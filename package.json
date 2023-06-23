@@ -47,7 +47,7 @@
     "marked": "^4.0.10"
   },
   "peerDependencies": {
-    "svelte": "^3.0.0"
+    "svelte": ">=3.0.0"
   },
   "types": "./types/index.d.ts",
   "jest": {
